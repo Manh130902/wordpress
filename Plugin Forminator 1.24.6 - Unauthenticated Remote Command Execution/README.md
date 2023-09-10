@@ -20,6 +20,7 @@ Chỉnh sửa yêu cầu gửi lên
 
 Payload 
 Payload file: test.php
+
  ![image](https://github.com/Manh130902/wordpress/assets/93723285/ccb54261-0717-42d7-b890-190da53fb1d7)
 
 Kiểm tra thư mục upload,  ta thấy thư mục đã có trong thư mục
