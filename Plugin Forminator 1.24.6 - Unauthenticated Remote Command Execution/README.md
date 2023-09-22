@@ -3,7 +3,9 @@
 - Plugin : Forminator
 - Phiên bản lỗi: 1.24.6
 - Lỗi : Unauthenticated Remote Command Execution
-- a) Mô tả
+
+a) Mô tả
+
 - Forminator là plugin tạo biểu mẫu WordPress dễ sử dụng cho mọi trang web và mọi tình huống. Đây là cách dễ dàng nhất để tạo bất kỳ biểu mẫu nào – biểu mẫu liên hệ, biểu mẫu đặt hàng, biểu mẫu thanh toán, biểu mẫu email, tiện ích phản hồi, cuộc thăm dò tương tác với kết quả theo thời gian thực, câu đố, công cụ ước tính dịch vụ và biểu mẫu đăng ký có thanh toán các tùy chọn bao gồm PayPal và Stripe.
 
 b) Hàm xử lý bị lỗi
